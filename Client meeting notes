@@ -1,0 +1,13 @@
+Dismas Ficklen and Brandon Davis (Team 3D Cars) w/ Prof. Li Meeting Notes
+
+Sprint 1
+
+Meeting Times: We will meet bi-weekly on Thursdays, at 10am at W. Li’s office (DH 321). Next meeting is on 2/23.
+
+Project Goal: The goal of this project is to automatically convert road network data (intersections) to 3D scenes in Unity. (Li recommends turning data into 2D scene, then convert the 2D scene to a 3D scene)
+
+Goal to achieve by end of sprint 2:
+  *Learn the Basics of SUMO (finish beginner tutorial)
+  *Be able to download any intersection in the world and import it to SUMO
+    -Download road network data from https://www.openstreetmap.org/. 
+    -Use SUMO plug-in to import OpenStreetMap data. 
